@@ -1,0 +1,32 @@
+[
+  {
+    "title" : "BELIEVER",
+    "text"  : "Imagine Dragons",
+    "images" : "images/pic1.jpg",
+    "audio" : "believer.mp3"
+  },
+  {
+    "title" : "BLINDING LIGHTS",
+    "text" : "The Weeknd",
+    "images" : "images/blinding_lights.jpg",
+    "audio" : "blinding_lights.mp3"
+  },
+  {
+    "title" : "WE DON'T TALK ANYMORE",
+    "text" : "Charlie Puth",
+    "images" : "images/wdta.jpg",
+    "audio" : "wdta.mp3"
+  },
+  {
+    "title" : "LEVITATING",
+    "text" : "Dua Lipa",
+    "images" : "images/levitating.jpg",
+    "audio" : "levitating.mp3"
+  },
+  {
+    "title" : "THIS IS HEAVEN",
+    "text" : "Nick Jonas",
+    "images" : "images/heaven.jpg",
+    "audio" : "tih.mp3"
+  }
+]

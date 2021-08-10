@@ -1,0 +1,75 @@
+[
+  {
+    "title" : "BAD HABITS",
+    "text"  : "Ed Sheeran",
+    "rating" : "4.5",
+    "images" : "images/bad_habits.jpg",
+    "audio" : "https://michbase.com/wp-content/uploads/2021/07/ed-sheeran-bad-habits-MichBase.com_.mp3"
+  },
+  {
+    "title" : "BAARISH BAN JAANA",
+    "text"  : "Payal Dev & Stebin Ben",
+    "rating" : "4.4",
+    "images" : "images/baarish.jpg",
+    "audio" : "https://pagalfree.com/musics/128-Baarish%20Ban%20Jaana%20-%20Payal%20Dev%20128%20Kbps.mp3"
+  },
+
+  {
+    "title" : "PEACHES",
+    "text"  : "Justin Beiber",
+    "rating" : "4.5",
+    "images" : "images/peaches.jpg",
+    "audio" : "https://www.thinknews.com.ng/wp-content/uploads/2021/05/Justin_Bieber_Ft_Daniel_Caesar_Giveon_-_Peaches.mp3"
+  },
+
+  {
+    "title" : "LUT GAYE",
+    "text" : "Jubin Nautiyal",
+    "rating" : "4.3",
+    "images" : "images/lut_gaye.jpg",
+    "audio" : "https://pagalfree.com/musics/128-Lut%20Gaye%20-%20Jubin%20Nautiyal%20128%20Kbps.mp3"
+  },
+  {
+    "title" : "TAKE MY BREATH",
+    "text"  : "The Weeknd",
+    "rating" : "4.3",
+    "images" : "images/tmb.jpeg",
+    "audio" : "https://www.thinknews.com.ng/wp-content/uploads/2021/08/The_weeknd_-_Take_My_Breath_thinknews.com.ng.mp3"
+  },
+  {
+    "title" : "NADIYON PAAR",
+    "text" : "Sachin-Jigar",
+    "rating" : "4.1",
+    "images" : "images/nadiyo_paar.jpg",
+    "audio" : "https://pagalfree.com/musics/128-Nadiyon%20Paar%20-%20Roohi%20128%20Kbps.mp3"
+  },
+  {
+    "title" : "HAPPIER THAN EVER",
+    "text"  : "Billie Eilish",
+    "rating" : "4.4",
+    "images" : "images/happier.jpg",
+    "audio" : "https://www.thinknews.com.ng/wp-content/uploads/2021/08/Billie_Eilish_-_Happier_Than_Ever_thinknews.com.ng.mp3"
+  },
+  {
+    "title" : "GOOD 4 U",
+    "text"  : "Olivia Rodrigo",
+    "rating" : "4.2",
+    "images" : "images/gud4u.jpg",
+    "audio" : "https://www.thinknews.com.ng/wp-content/uploads/2021/06/Olivia_Rodrigo_-_Good_4_U.mp3"
+  },
+
+  {
+    "title" : "PAANI PAANI",
+    "text" : "Badshah & Aastha Gill",
+    "rating" : "4.4",
+    "images" : "images/paani.jpg",
+    "audio" : "https://pagalfree.com/musics/128-Paani%20Paani%20-%20Badshah%20128%20Kbps.mp3"
+  },
+  {
+    "title" : "PARAM SUNDARI",
+    "text" : "Shreya Ghoshal",
+    "rating" : "4.2",
+    "images" : "images/param_sundari.jpg",
+    "audio" : "https://pagalfree.com/musics/128-Param%20Sundari%20-%20Mimi%20128%20Kbps.mp3"
+  }
+]

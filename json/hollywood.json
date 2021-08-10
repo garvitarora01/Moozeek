@@ -1,0 +1,58 @@
+[
+  {
+    "title" : "BAD LIAR",
+    "text" : "Imagine Dragons",
+    "rating" : "4.6",
+    "images" : "images/bad_liar.jpg",
+    "audio" : "https://pagalfree.com/musics/128-Haaye%20Oye%20-%20QARAN%20128%20Kbps.mp3"
+  },
+  {
+    "title" : "NO PLACE",
+    "text" : "Backstreet Boys",
+    "rating" : "4.3",
+    "images" : "images/no_place.jpg",
+    "audio" : "https://pagalfree.com/musics/128-No%20Competition%20-%20Jass%20Manak%20128%20Kbps.mp3"
+  },
+  {
+    "title" : "STARBOY",
+    "text" : "The Weeknd",
+    "rating" : "4.4",
+    "images" : "images/starboy.jpg",
+    "audio" : "https://pagalsong.in/uploads/systemuploads/mp3/Sakhiyaan%20%20-%20Maninder%20Buttar/Sakhiyaan%20-%20Maninder%20Buttar%20128%20Kbps.mp3"
+  },
+  {
+    "title" : "GRAVEYARD",
+    "text" : "Halsey",
+    "rating" : "4.7",
+    "images" : "images/graveyard.jpg",
+    "audio" : "https://pagalfree.com/musics/128-Agar%20Tum%20Saath%20Ho%20-%20Tamasha%20128%20Kbps.mp3"
+  },
+  {
+    "title" : "AT MY WORST",
+    "text" : "Pink Sweat$",
+    "rating" : "4.6",
+    "images" : "images/amw.jpg",
+    "audio" : "https://pagalfree.com/musics/128-Kabira%20(Encore)%20-%20Yeh%20Jawaani%20Hai%20Deewani%20128%20Kbps.mp3"
+  },
+  {
+    "title" : "FLAGS",
+    "text" : "COLDPLAY",
+    "rating" : "4.4",
+    "images" : "images/flags.jpg",
+    "audio" : "https://dns4.vippendu.com/download/128k-dcqrg/Brown-Munde.mp3"
+  },
+  {
+    "title" : "BEST IS YET TO COME",
+    "text" : "Gryffin",
+    "rating" : "4.5",
+    "images" : "images/biytc.jpg",
+    "audio" : "https://pagalfree.com/musics/128-Oh%20Ho%20Ho%20Ho%20(Remix)%20-%20Hindi%20Medium%20128%20Kbps.mp3"
+  },
+  {
+    "title" : "WATERMELON SUGAR",
+    "text" : "Diljit Dosanjh",
+    "rating" : "4.5",
+    "images" : "images/sugar.jpg",
+    "audio" : "https://cdnsongs.com/music/data/Single_Track/201609/Do_You_Know/128/Do_You_Know_1.mp3"
+  }
+]

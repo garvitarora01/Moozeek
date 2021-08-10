@@ -1,0 +1,58 @@
+[
+  {
+  "title" : "HAAYE OYE",
+  "text" : "Qaran ft. Ash King",
+  "rating" : "4.5",
+  "images" : "images/haaye_oye.jpg",
+  "audio" : "https://pagalfree.com/musics/128-Haaye%20Oye%20-%20QARAN%20128%20Kbps.mp3"
+  },
+  {
+"title" : "NO COMPETITION",
+"text" : "Divine ft. Jass Manak",
+"rating" : "4.3",
+"images" : "images/nc.jpg",
+"audio" : "https://pagalfree.com/musics/128-No%20Competition%20-%20Jass%20Manak%20128%20Kbps.mp3"
+  },
+  {
+    "title" : "SAKHIYAAN",
+    "text" : "Maninder Buttar",
+    "rating" : "4.5",
+    "images" : "images/sakhiyan.jpg",
+    "audio" : "https://pagalsong.in/uploads/systemuploads/mp3/Sakhiyaan%20%20-%20Maninder%20Buttar/Sakhiyaan%20-%20Maninder%20Buttar%20128%20Kbps.mp3"
+  },
+  {
+    "title" : "AGAR TUM SAATH HO",
+    "text" : "Arijit Singh & Alka Yagnik",
+    "rating" : "4.7",
+    "images" : "images/atsh.jpg",
+    "audio" : "https://pagalfree.com/musics/128-Agar%20Tum%20Saath%20Ho%20-%20Tamasha%20128%20Kbps.mp3"
+  },
+  {
+    "title" : "KABIRA(ENCORE)",
+    "text" : "Arijit Singh",
+    "rating" : "4.6",
+    "images" : "images/kabira.jpg",
+    "audio" : "https://pagalfree.com/musics/128-Kabira%20(Encore)%20-%20Yeh%20Jawaani%20Hai%20Deewani%20128%20Kbps.mp3"
+  },
+  {
+    "title" : "BROWN MUNDE",
+    "text" : "AP Dhillon",
+    "rating" : "4.4",
+    "images" : "images/brown_munde.jpg",
+    "audio" : "https://dns4.vippendu.com/download/128k-dcqrg/Brown-Munde.mp3"
+  },
+  {
+    "title" : "OH HO HO HO",
+    "text" : "Sukhbir",
+    "rating" : "4.5",
+    "images" : "images/oh_ho.jpg",
+    "audio" : "https://pagalfree.com/musics/128-Oh%20Ho%20Ho%20Ho%20(Remix)%20-%20Hindi%20Medium%20128%20Kbps.mp3"
+  },
+  {
+    "title" : "DO YOU KNOW",
+    "text" : "Diljit Dosanjh",
+    "rating" : "4.5",
+    "images" : "images/dyk.jpg",
+    "audio" : "https://cdnsongs.com/music/data/Single_Track/201609/Do_You_Know/128/Do_You_Know_1.mp3"
+  }
+]
