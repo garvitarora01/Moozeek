@@ -1,6 +1,7 @@
 # musicapp
 
-A new Flutter application.
+A Music streaming application, featuring a simple and intuitive interface that can be used over both Android and iOS devices to stream music over the internet.
+The Application has tabs to navigate to the genre of music that user likes (Tabs: Newly Added, Hollywood, Bollywood). When clicked on a particular music option from list of options under different tabs the audio players starts playing the audio file. The audio player is well versed with functionalities that lets the user pause,play,fast-forward,slo-motion and loop the audio file he's currently playing.
 
 ## Getting Started
 
